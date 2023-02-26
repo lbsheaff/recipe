@@ -289,7 +289,7 @@ nav svg:hover{
     align-items: center;
     color:black;
     background-color: #ffffff;
-    padding:10px 11px 20px 15px;
+    padding: 15px 25px 15px 25px;
     text-align: center;
     transform: translateX(115px);
     line-height: 1;
@@ -431,13 +431,9 @@ nav a {
     left: 0;
 }
 [href="#signin"] {
-    padding:15px 10px 11px 15px;
     text-align: center;
-    transform: translateX(676px);    
-}
-[href="#signin"] {
-    transform: translateX(-100px);
-    width: 100px
+    width: 100px;
+    transform: translateX(-100px);    
 }
 .search {
     position: absolute;
