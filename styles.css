@@ -167,7 +167,7 @@ aside {
     padding-bottom: 10px;
 }
 .dishes a {
-    color: black;
+    color: #000000;
     text-decoration: none;
 }
 .rating dl {
@@ -287,7 +287,7 @@ nav svg:hover{
     display:inline-flex;
     flex-direction: column-reverse;
     align-items: center;
-    color:black;
+    color:#000000;
     background-color: #ffffff;
     padding: 15px 25px 15px 25px;
     text-align: center;
@@ -512,14 +512,14 @@ label span {
     visibility: hidden;
 }
 #details {
-    background-color: black;
+    background-color: #000000;
     color: #7ABFBF;
 }
 #details dl {
     width: 20%;
     list-style: none; 
     float: left;
-    background-color: black;
+    background-color: #000000;
 }   
 dd, dt {
     display: block;
